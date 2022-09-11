@@ -339,7 +339,7 @@ async fn handle_help(ctx: &Context, cmd: &ApplicationCommandInteraction) -> Resu
     r(
         ctx,
         cmd,
-        "使い方はこちらをご覧ください:\nhttps://github.com/ciffelia/koe/blob/main/README.md",
+        "使い方はこちらをご覧ください:\nhttps://korako.notion.site/korako/587ccfaff85a4a19af532ce478462454",
     )
     .await?;
     Ok(())
